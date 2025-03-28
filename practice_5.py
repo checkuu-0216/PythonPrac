@@ -54,7 +54,7 @@ num_list = [ 5,4,2,3,1]
 num_list.extend(mix_list)
 print(num_list)
 
-사전
+# 사전
 cabinet = {"a-3":"유재석", "b-100":"김태호"}
 print(cabinet[100])
 print(cabinet.get(3))
